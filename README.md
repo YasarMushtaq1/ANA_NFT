@@ -21,6 +21,8 @@ you can find it on opensea testnets: 0x3232E724Ae20e2EaA70cc3d7222372311E5142C2
 
 ![photo_2024-02-26_01-32-11](https://github.com/YasarMushtaq1/ANA_NFT/assets/124120950/3eebf726-db66-4ae5-9ccd-0592d6682dd3)
 
+# Licence
+This is under MIT LICENSE
 
 
 
